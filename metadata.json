@@ -12,7 +12,7 @@
     "48",
     "49"
   ],
-  "url": "https://github.com/your-username/gnome-stage-manager",
+  "url": "https://github.com/byQuesters/Stage-Manager-for-Linux",
   "settings-schema": "org.gnome.shell.extensions.stage-manager",
   "gettext-domain": "stage-manager"
 }
