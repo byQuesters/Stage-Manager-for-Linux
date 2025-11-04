@@ -253,7 +253,7 @@ export default class StageManagerPreferences extends ExtensionPreferences {
             valign: Gtk.Align.CENTER,
         });
         githubButton.connect('clicked', () => {
-            Gtk.show_uri(null, 'https://github.com/questers/stage-manager-gnome', Gdk.CURRENT_TIME);
+            Gtk.show_uri(null, 'https://github.com/byQuesters/Stage-Manager-for-Linux', Gdk.CURRENT_TIME);
         });
         aboutRow.add_suffix(githubButton);
         infoGroup.add(aboutRow);
