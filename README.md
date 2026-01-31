@@ -3,6 +3,7 @@
 A GNOME extension inspired by macOS's Stage Manager, designed to transform your windowed workflow in a tidy, elegant, and efficient way.
 
 <img width="1536" height="1024" alt="Stage Manager byQuesters V1" src="https://github.com/user-attachments/assets/9e45b350-2648-4fb4-9a1a-c68fa45a5c22" />
+Tested on Fedora42
 
 ****
 ✨ **Key Features**
@@ -20,7 +21,7 @@ A GNOME extension inspired by macOS's Stage Manager, designed to transform your 
 
 📦 **Installation**
 
-- Detailed instructions for manual installation and installation via GNOME Extensions (when available) will be included soon.
+- run install-stage-manager.sh
 
 🤝 **Contribute**
 
